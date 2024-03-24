@@ -1,2 +1,10 @@
 streamlit
 pandas
+openai
+langchain
+pinecone-client
+pdfminer
+pdfplumber
+pytesseract
+pdf2image
+PyPDF2
