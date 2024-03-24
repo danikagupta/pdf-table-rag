@@ -2,6 +2,8 @@ streamlit
 pandas
 openai
 langchain
+langchain-community
+langchain-openai
 pinecone-client
 pdfminer
 pdfplumber
